@@ -1,0 +1,16 @@
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.csprojAssemblyReference.cache
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.AssemblyInfoInputs.cache
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.AssemblyInfo.cs
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.csproj.CoreCompileInputs.cache
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2.deps.json
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2.runtimeconfig.json
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2.runtimeconfig.dev.json
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2.dll
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/ref/Torneo de futbol Actividad 2.dll
+/home/franco/Desktop/Torneo de futbol Actividad 2/bin/Debug/net5.0/Torneo de futbol Actividad 2.pdb
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.dll
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/ref/Torneo de futbol Actividad 2.dll
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.pdb
+/home/franco/Desktop/Torneo de futbol Actividad 2/obj/Debug/net5.0/Torneo de futbol Actividad 2.genruntimeconfig.cache
